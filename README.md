@@ -18,4 +18,5 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/MIHIR-110103/SQL/tree/master/0197-rising-temperature) |
+| [1801-average-time-of-process-per-machine](https://github.com/MIHIR-110103/SQL/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
