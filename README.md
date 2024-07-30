@@ -23,4 +23,5 @@
 | [0577-employee-bonus](https://github.com/MIHIR-110103/SQL/tree/master/0577-employee-bonus) |
 | [1415-students-and-examinations](https://github.com/MIHIR-110103/SQL/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/MIHIR-110103/SQL/tree/master/1801-average-time-of-process-per-machine) |
+| [1948-rearrange-products-table](https://github.com/MIHIR-110103/SQL/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
