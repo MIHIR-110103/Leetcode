@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [2350-find-closest-number-to-zero](https://github.com/MIHIR-110103/SQL/tree/master/2350-find-closest-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/MIHIR-110103/SQL/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/MIHIR-110103/SQL/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
