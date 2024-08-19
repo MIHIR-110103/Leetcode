@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MIHIR-110103/SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2350-find-closest-number-to-zero](https://github.com/MIHIR-110103/SQL/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -50,5 +51,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MIHIR-110103/SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MIHIR-110103/SQL/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
