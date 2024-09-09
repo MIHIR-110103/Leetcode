@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MIHIR-110103/SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0228-summary-ranges](https://github.com/MIHIR-110103/Leetcode/tree/master/0228-summary-ranges) |
 | [2350-find-closest-number-to-zero](https://github.com/MIHIR-110103/SQL/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
