@@ -25,6 +25,7 @@
 | [1664-find-users-with-valid-e-mails](https://github.com/MIHIR-110103/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1801-average-time-of-process-per-machine](https://github.com/MIHIR-110103/SQL/tree/master/1801-average-time-of-process-per-machine) |
 | [1948-rearrange-products-table](https://github.com/MIHIR-110103/SQL/tree/master/1948-rearrange-products-table) |
+| [2087-confirmation-rate](https://github.com/MIHIR-110103/Leetcode/tree/master/2087-confirmation-rate) |
 ## Array
 |  |
 | ------- |
