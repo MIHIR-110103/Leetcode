@@ -22,6 +22,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MIHIR-110103/SQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/MIHIR-110103/SQL/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/MIHIR-110103/Leetcode/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/MIHIR-110103/Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/MIHIR-110103/SQL/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MIHIR-110103/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1801-average-time-of-process-per-machine](https://github.com/MIHIR-110103/SQL/tree/master/1801-average-time-of-process-per-machine) |
